@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">Proddit</string>
+    <string name="submit_title_label">Posteaza pe proddit</string>
+    <string name="submit_url_label">Link</string>
+    <string name="submit_reddit_label">Proddit</string>
+    <string name="submit_captcha_label">Captcha</string>
+    <string name="submit_captcha_loading">Se incarca...</string>
+    <string name="submit_button">Trimite</string>
+    <string name="submit_text_label">Text</string>
+	<string name="error_voting_toast">Eroare</string>
+	<string name="login_username_label">Utilizator</string>
+	<string name="login_password_label">Parola</string>
+	<string name="login_button">Login</string>
+	<string name="pick_subreddit">Alege categorie</string>
+	<string name="update_captcha">Reimprospateaza captcha</string>
+	<string name="pick_subreddit_button">Alege</string>
+	<string name="noSubreddits">Nu exista categorii</string>
+	<string name="loading_splash_text">Se incarca</string>
+	<string name="noThreads">Nu exista fire</string>
+</resources>
+ 
